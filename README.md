@@ -823,7 +823,7 @@ contactus
 ![alt text](<Home.png>)
 ![alt text](<Person.png>)
 ![alt text](<Product.png>)
-![alt text](<Contact).png>)
+![alt text](<Contact.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
